@@ -1,17 +1,22 @@
 # evolucao-de-aprendizagem
 
-## Conteúdos a serem trabalhados nesse módulo:
+### Conteúdos a serem trabalhados nesse módulo:
 
-- Soft skills
+Aulas de carreira:
+
 - LinkedIn
-- Ética em tecnologia
+- Soft skills
 - Gestão de tempo
+- Ética em tecnologia
 - Currículo e carta de apresentação
+  
+Aulas técnicas:
+
 - Git básico
-- Introdução a TypeScript
-- Métodos de strings
-- Métodos de arrays
 - Tipos de Dados
+- Métodos de arrays
+- Métodos de strings
+- Introdução a TypeScript
   
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
