@@ -1,4 +1,6 @@
-# evolucao-de-aprendizagem
+# 💻 Evolução De Aprendizagem - M02
+
+Este repositório foi criado para o módulo 02 do curso de Desenvolvimento de Software Fullstack, oferecido pela Cubos Academy.
 
 ### Conteúdos a serem trabalhados nesse módulo:
 
@@ -25,6 +27,7 @@ Aulas técnicas:
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
+- Como organizar o linkedin de forma estratégica
 - 
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
