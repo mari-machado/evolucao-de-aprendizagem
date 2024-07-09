@@ -1,4 +1,4 @@
-# 💻 Evolução De Aprendizagem - M02
+# 💻 Evolução De Aprendizagem - M02/M03
 
 Este repositório foi criado para o módulo 02 do curso de Desenvolvimento de Software Fullstack, oferecido pela Cubos Academy.
 
@@ -21,21 +21,21 @@ Aulas técnicas:
 - Introdução a TypeScript
   
 
-## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+## 💡 O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 - O Linkedin é muito importante para aprimorar e conseguir oportunidades de emprego.
 - Uma boa gestão de tempo é importante para conseguir lidar com os afazeres pessoais.
 - Soft skills são importantes no meio social, principalmente no atendimento ao cliente e em ambientes colaborativos.
 - A ética em tecnologia deve ser levada em conta nas mais diversas áreas, como Machine Learning e na programação de aplicativos.
 
-## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+## 📋 O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 - Como organizar o linkedin de forma estratégica e utilizar de palavras-chaves para aprimorar o meu currículo. 
 - Como otimizar minha gestão de tempo.
 - Como montar um currículo e a carta de apresentação, de modo que mostre todas as minhas habilidades e os meus pontos fortes.
 - Quero entender melhor como funcionam os métodos de strings e arrays em Typescript. 
 
-## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+## 📖 Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 ### Módulo 2
 
