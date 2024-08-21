@@ -1,6 +1,6 @@
 # 💻 Evolução De Aprendizagem - M02/M03/M04
 
-Este repositório foi criado para o módulo 02 do curso de Desenvolvimento de Software Fullstack, oferecido pela Cubos Academy.
+Este repositório foi criado para armazenar os estudos dos módulos do curso de Desenvolvimento de Software, oferecido pela Cubos Academy.
 
 ## 📖 Conteúdos trabalhados nesse módulo:
 
